@@ -3,7 +3,7 @@
 The dataset contains information on 201 shoe products, with key attributes such as brand, color, size, and price. It includes 25 different brands, ranging from internationally recognized names like Adidas, Nike, Converse, PUMA, and Reebok to more regional or fashion-focused brands such as Franco Leone, Tresmode, Hush Puppies, and Liberty. This diversity provides a broad overview of the footwear market, reflecting a range of styles, price levels, and target consumers. Regarding descriptive statistics, the average shoe price falls within a mid-range level, and the standard deviation indicates a moderate variation in prices. The lowest recorded prices are mostly associated with brands like Tresmode, Liberty, and Camel, which focus on affordable or basic footwear options. On the other hand, the highest prices are recorded by brands such as Franco Leone, Crocs, and Tresmode (specifically for certain color variants), which tend to offer more premium designs or limited-edition styles. The median price shows that half of the shoes fall below a practical price point, highlighting that most products are aimed at average consumers, while still leaving room for both budget and high-end choices in the market.
 
 There are 201 columns, 4 rows in the data set.
-
+## Data Cleaning
 Missing value:
 * There are 1 missing value in Color, 1 missing value in Price, I deleted completely the value as I cannot predict the color, price of the Shoe
 
